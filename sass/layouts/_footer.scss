@@ -5,12 +5,14 @@
 .address .link {
     color: $white-color;
     @include fonts(normal, 14px, 1.7, 0.03em);
+    font-style: normal;
     text-decoration: none;
 }
 
 .address .contact {
     color: $contact-color;
     @include fonts(normal, 14px, 1.7, 0.03em);
+    font-style: normal;
     text-decoration: none;
 }
 
